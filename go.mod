@@ -1,6 +1,6 @@
-module github.com/Timothylock/go-signin-with-apple
+module github.com/Aurora-4u/go-signin-with-apple
 
-go 1.22
+go 1.2
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
