@@ -1,4 +1,4 @@
-module github.com/aurora-4u/go-signin-with-apple
+module github.com/leya33/go-signin-with-apple
 
 go 1.20
 
